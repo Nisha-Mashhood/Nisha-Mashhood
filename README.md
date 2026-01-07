@@ -9,7 +9,7 @@
 
 🔹 Currently working on ConnectSphere – a platform for remote collaboration and mentorship
 
-🔹 Exploring AI integration and clean architecture in web development
+🔹 Exploring AI integration andRrepositry architecture in web development
 
 📌 Featured Projects 🔹 [ConnectSphere] : (https://github.com/NishaAnas/connectSphere)
 
@@ -27,6 +27,6 @@
 
 💼 LinkedIn: www.linkedin.com/in/nisha-mashhood-00a6b8a4
 
-📧 Email: nishamashhood@example.com
+📧 Email: nishamashhood@gmail.com
 
 📷 instagram: https://www.instagram.com/nisha____anas/
